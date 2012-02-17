@@ -1,0 +1,166 @@
+THello
+v7
+r0
+t301015534.766473
+cCheck dependencies
+cProcessInfoPlistFile /Users/gjlacey/Hello/build/Debug/Hello.app/Contents/Info.plist Info.plist
+cStripNIB /Users/gjlacey/Hello/English.lproj/MainMenu.nib
+cCopyStringsFile /Users/gjlacey/Hello/build/Debug/Hello.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/g7/g7xzsZtgFjekJXcVUFvvLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_Prefix-eqcsyurrsdskfocmoeegpzwfyrcj/Hello_Prefix.pch.gch Hello_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hello.build/Debug/Hello.build/Objects-normal/i386/main.o /Users/gjlacey/Hello/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/gjlacey/Hello/build/Debug/Hello.app/Contents/MacOS/Hello normal i386
+cTouch /Users/gjlacey/Hello/build/Debug/Hello.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C408ED200000000000000EE
+t1279299282
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/gjlacey/Hello/English.lproj/InfoPlist.strings
+c000000004C3F06A100000000000000B8
+t1279198881
+s184
+
+N/Users/gjlacey/Hello/English.lproj/MainMenu.nib
+c000000004C3F06A10000000000000088
+t1279198881
+s136
+
+N/Users/gjlacey/Hello/Hello_Prefix.pch
+c000000004C3F06A1000000000000008D
+t1279198881
+s141
+i<Cocoa/Cocoa.h>
+
+N/Users/gjlacey/Hello/build/Debug/Hello.app
+t1279322734
+s102
+
+N/Users/gjlacey/Hello/build/Debug/Hello.app/Contents/Info.plist
+t1279322727
+s763
+
+N/Users/gjlacey/Hello/build/Debug/Hello.app/Contents/MacOS/Hello
+t1279322734
+s13064
+
+N/Users/gjlacey/Hello/build/Debug/Hello.app/Contents/PkgInfo
+t1279322728
+s8
+
+N/Users/gjlacey/Hello/build/Debug/Hello.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1279322728
+s184
+
+N/Users/gjlacey/Hello/build/Debug/Hello.app/Contents/Resources/English.lproj/MainMenu.nib
+t1279322728
+s18012
+
+N/Users/gjlacey/Hello/build/Hello.build/Debug/Hello.build/Objects-normal/i386/Hello.LinkFileList
+c000000004C40EA670000000000000054
+t1279322727
+s84
+
+N/Users/gjlacey/Hello/build/Hello.build/Debug/Hello.build/Objects-normal/i386/main.o
+t1279322734
+s4820
+
+N/Users/gjlacey/Hello/main.m
+c000000004C3F06A100000000000000F5
+t1279198881
+s245
+i<Cocoa/Cocoa.h>
+
+N/var/folders/g7/g7xzsZtgFjekJXcVUFvvLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_Prefix-eqcsyurrsdskfocmoeegpzwfyrcj/Hello_Prefix.pch.gch
+t1279322733
+s54002064
+
+NInfo.plist
+c000000004C3F06A10000000000000342
+t1279198881
+s834
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301015527#301015527#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Hello.build/Debug/Hello.build/Objects-normal/i386/main.o /Users/gjlacey/Hello/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301015533.931418
+e301015534.068483
+r1
+xCompileC
+xbuild/Hello.build/Debug/Hello.build/Objects-normal/i386/main.o
+x/Users/gjlacey/Hello/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Compile /Users/gjlacey/Hello/main.m301015533#301015534#0(0"0(0#0#27"/Users/gjlacey/Hello/main.m8595657632#903"    cd /Users/gjlacey/Hello    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gjlacey/Hello/build/Hello.build/Debug/Hello.build/Hello.hmap -F/Users/gjlacey/Hello/build/Debug -I/Users/gjlacey/Hello/build/Debug/include -I/Users/gjlacey/Hello/build/Hello.build/Debug/Hello.build/DerivedSources/i386 -I/Users/gjlacey/Hello/build/Hello.build/Debug/Hello.build/DerivedSources -include /var/folders/g7/g7xzsZtgFjekJXcVUFvvLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_Prefix-eqcsyurrsdskfocmoeegpzwfyrcj/Hello_Prefix.pch -c /Users/gjlacey/Hello/main.m -o /Users/gjlacey/Hello/build/Hello.build/Debug/Hello.build/Objects-normal/i386/main.o0#
+
+CCopyStringsFile /Users/gjlacey/Hello/build/Debug/Hello.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s301015528.012919
+e301015528.438827
+r1
+xCopyStringsFile
+x/Users/gjlacey/Hello/build/Debug/Hello.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings301015528#301015528#0(0"0(0#0#52"/Users/gjlacey/Hello/English.lproj/InfoPlist.strings8604134848#328"    cd /Users/gjlacey/Hello    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/gjlacey/Hello/build/Debug/Hello.app/Contents/Resources/English.lproj0#
+
+CLd /Users/gjlacey/Hello/build/Debug/Hello.app/Contents/MacOS/Hello normal i386
+s301015534.068564
+e301015534.763692
+r1
+xLd
+x/Users/gjlacey/Hello/build/Debug/Hello.app/Contents/MacOS/Hello
+xnormal
+xi386
+lSLF07#2@68"Link /Users/gjlacey/Hello/build/Debug/Hello.app/Contents/MacOS/Hello301015534#301015534#0(0"0(0#0#0"8604027616#438"    cd /Users/gjlacey/Hello    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/gjlacey/Hello/build/Debug -F/Users/gjlacey/Hello/build/Debug -filelist /Users/gjlacey/Hello/build/Hello.build/Debug/Hello.build/Objects-normal/i386/Hello.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/gjlacey/Hello/build/Debug/Hello.app/Contents/MacOS/Hello0#
+
+CProcessInfoPlistFile /Users/gjlacey/Hello/build/Debug/Hello.app/Contents/Info.plist Info.plist
+s301015527.987216
+e301015528.011605
+r1
+xProcessInfoPlistFile
+x/Users/gjlacey/Hello/build/Debug/Hello.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist301015527#301015528#0(0"0(0#0#31"/Users/gjlacey/Hello/Info.plist32932993185022064#244"    cd /Users/gjlacey/Hello    builtin-infoPlistUtility Info.plist -genpkginfo /Users/gjlacey/Hello/build/Debug/Hello.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/gjlacey/Hello/build/Debug/Hello.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/g7/g7xzsZtgFjekJXcVUFvvLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_Prefix-eqcsyurrsdskfocmoeegpzwfyrcj/Hello_Prefix.pch.gch Hello_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s301015528.453973
+e301015533.931212
+r1
+xProcessPCH
+x/var/folders/g7/g7xzsZtgFjekJXcVUFvvLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_Prefix-eqcsyurrsdskfocmoeegpzwfyrcj/Hello_Prefix.pch.gch
+xHello_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Hello_Prefix.pch301015528#301015533#0(0"0(0#0#37"/Users/gjlacey/Hello/Hello_Prefix.pch8604136128#831"    cd /Users/gjlacey/Hello    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gjlacey/Hello/build/Hello.build/Debug/Hello.build/Hello.hmap -F/Users/gjlacey/Hello/build/Debug -I/Users/gjlacey/Hello/build/Debug/include -I/Users/gjlacey/Hello/build/Hello.build/Debug/Hello.build/DerivedSources/i386 -I/Users/gjlacey/Hello/build/Hello.build/Debug/Hello.build/DerivedSources -c /Users/gjlacey/Hello/Hello_Prefix.pch -o /var/folders/g7/g7xzsZtgFjekJXcVUFvvLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_Prefix-eqcsyurrsdskfocmoeegpzwfyrcj/Hello_Prefix.pch.gch0#
+
+CStripNIB /Users/gjlacey/Hello/English.lproj/MainMenu.nib
+s301015528.011703
+e301015528.453794
+r1
+xStripNIB
+x/Users/gjlacey/Hello/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib301015528#301015528#0(0"0(0#0#47"/Users/gjlacey/Hello/English.lproj/MainMenu.nib8604563872#239"    cd /Users/gjlacey/Hello    /Developer/usr/bin/ibtool --strip /Users/gjlacey/Hello/build/Debug/Hello.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/gjlacey/Hello/English.lproj/MainMenu.nib0#
+
+CTouch /Users/gjlacey/Hello/build/Debug/Hello.app
+s301015534.763785
+e301015534.766441
+r1
+xTouch
+x/Users/gjlacey/Hello/build/Debug/Hello.app
+lSLF07#2@48"Touch /Users/gjlacey/Hello/build/Debug/Hello.app301015534#301015534#0(0"0(0#0#0"8595642304#93"    cd /Users/gjlacey/Hello    /usr/bin/touch -c /Users/gjlacey/Hello/build/Debug/Hello.app0#
+
